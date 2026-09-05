@@ -118,6 +118,11 @@
       
       <textarea id="resultBox" placeholder="Your video transcript will appear here..." readonly></textarea>
     </div>
+    <div style="background: #161b22; border: 1px solid #30363d; padding: 20px; border-radius: 12px; margin-bottom: 20px;">
+      <h2 style="color: #ffffff; font-size: 20px; margin-bottom: 10px;">🎙️ AI Video Transcriber</h2>
+      <p style="color: #8b949e; font-size: 14px; margin-bottom: 15px;">Extract the exact English text script directly from any short video.</p>
+      <a href="transcriber.html" style="display: inline-block; background: #ff3366; color: #ffffff; text-decoration: none; padding: 12px 20px; border-radius: 8px; font-weight: bold;">Open Transcriber</a>
+    </div>
 
     <footer>
       <p>&copy; 2026 VideoTools Utility.</p>
